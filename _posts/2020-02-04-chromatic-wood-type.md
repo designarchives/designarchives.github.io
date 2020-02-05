@@ -2,7 +2,6 @@
 title: Specimens of chromatic wood type, borders, etc.
 description: Published by Wm. H. Page & co. in 1874
 categories:
-- Typography
 - Type Specimens
 ---
 Wm. H. Page & Co. Specimens of chromatic wood type, borders, etc. manufactured by Wm. H. Page & Co. The Co., Greeneville, Conn. : 1874. [98] leaves : col. ill. ; 47 cm.

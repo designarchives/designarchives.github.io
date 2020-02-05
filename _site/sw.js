@@ -1,8 +1,8 @@
-const version = '20200205012445';
+const version = '20200205122230';
 const cacheName = `static::${version}`;
 
 const buildContentBlob = () => {
-  return ["/typography/design%20education/2020/02/04/typographic-quest-6/","/typography/design%20education/2020/02/04/typographic-quest-5/","/typography/design%20education/2020/02/04/typographic-quest-4/","/typography/design%20education/2020/02/04/typographic-quest-3/","/typography/design%20education/2020/02/04/typographic-quest-2/","/typography/design%20education/2020/02/04/typographic-quest-1/","/typography/type%20specimens/2020/02/04/chromatic-wood-type/","/editorial/trade%20journal/2020/02/04/canadaink-4/","/about/","/categories/","/latest/","/","/manifest.json","/assets/search.json","/search/","/assets/styles.css","/redirects.json","/sitemap.xml","/robots.txt","/latest/page2/","/feed.xml","", "/assets/default-offline-image.png", "/assets/scripts/fetch.js"
+  return ["/editorial/2020/02/05/emigre-24/","/standards%20manual/2020/02/05/apple-1987/","/design%20education/2020/02/04/typographic-quest-6/","/design%20education/2020/02/04/typographic-quest-5/","/design%20education/2020/02/04/typographic-quest-4/","/design%20education/2020/02/04/typographic-quest-3/","/design%20education/2020/02/04/typographic-quest-2/","/design%20education/2020/02/04/typographic-quest-1/","/type%20specimens/2020/02/04/chromatic-wood-type/","/trade%20journal/2020/02/04/canadaink-4/","/about/","/categories/","/latest/","/","/manifest.json","/assets/search.json","/search/","/assets/styles.css","/redirects.json","/sitemap.xml","/robots.txt","/latest/page2/","/latest/page3/","/feed.xml","", "/assets/default-offline-image.png", "/assets/scripts/fetch.js"
   ]
 }
 

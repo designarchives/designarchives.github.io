@@ -8,6 +8,11 @@ styles: true
 html {
   font-family: 'IBM Plex Mono', monospace
 }
+li { margin-left: 8% !important;}
+a img {transition: opacity ease-in-out 0.5s; margin-top: 8%;}
+a img:hover {
+  opacity: 55%;
+}
 a {
   text-decoration: none;
     color: #dc2a2a;

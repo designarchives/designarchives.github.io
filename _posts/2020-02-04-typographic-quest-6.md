@@ -1,7 +1,6 @@
 ---
 title: A Typographic Quest 6–Etcetera
 categories:
-- Typography
 - Design Education
 ---
 Booklet number six of Carl Dair's series A Typographic Quest, made for the West Virginia Pulp and Paper Company.

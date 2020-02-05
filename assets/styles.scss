@@ -1,0 +1,38 @@
+---
+title: false
+styles: true
+---
+
+@import "alembic";
+@import url('https://fonts.googleapis.com/css?family=IBM+Plex+Mono:300,300i,500,600&display=swap');
+html {
+  font-family: 'IBM Plex Mono', monospace
+}
+a {
+  text-decoration: none;
+    color: #dc2a2a;
+  &:hover {
+    color: #800000;
+    font-weight: 500;
+  }
+}
+.logo, nav a {
+  text-decoration: none;
+    color: #dc2a2a;
+  &:hover {
+    color: #800000;
+    font-weight: 500;
+  }
+}
+.post-meta a {
+   color: #800000;
+   &:hover {
+     color: #800000;
+     text-decoration: underline;
+     font-weight: 500;
+   }
+}
+.time {
+  color: #000;
+  font-weight: 300;
+}

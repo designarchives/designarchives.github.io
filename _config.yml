@@ -1,0 +1,112 @@
+# Site configuration
+# 1. Files excluded from Jekyll builds
+# 2. Installed Gems
+# 3. Gem settings
+# 4. Jekyll settings
+# 5. Collections
+# 6. Jekyll collections settings
+# 7. Site settings
+# 8. Site favicons & manifest icons
+# 9. Site navigation
+
+# 1. Files excluded from Jekyll builds
+exclude:
+- README.md
+- CODE_OF_CONDUCT.md
+- CONTRIBUTING.md
+- screenshot.png
+- LICENSE
+- CNAME
+- Gemfile
+- Gemfile.lock
+- alembic-jekyll-theme.gemspec
+- .jekyll-cache
+
+# 2. Installed Gems
+plugins:
+- jekyll-sitemap
+- jekyll-mentions
+- jekyll-paginate
+- jekyll-seo-tag
+- jekyll-redirect-from
+- jekyll-default-layout
+- jekyll-feed
+- jekyll-commonmark
+- jekyll-include-cache
+- jemoji
+
+# 3. Gem settings
+paginate: 4 # jekyll-paginate > items per page
+paginate_path: latest/page:num # jekyll-paginate > blog page
+jekyll-mentions: https://twitter.com # jekyll-mentions > service used when @replying
+twitter:
+  username: valerymarier # jekyll-seo-tag > Owners twitter username
+author: Valery Marier # jekyll-seo-tag > default author
+social: # jekyll-seo-tag > social overrides
+  name: Valery Marier # jekyll-seo-tag > real name
+  links:  # jekyll-seo-tag > social aliases (sameAs)
+    - https://twitter.com/valerymarier
+# markdown: CommonMark # Markdown parse settings, CommonMark performs slightly better an others in build time
+# commonmark:
+  # options: ["SMART", "FOOTNOTES"]
+  # extensions: ["strikethrough", "autolink", "table"]
+
+# 4. Jekyll settings
+sass:
+  style: compressed # Style compression
+permalink: pretty  # Permalink style (/YYYY/MM/DD/page-name/)
+excerpt_separator: <!-- more --> # Marks end of excerpt in posts
+timezone: America/Toronto # Timezone for blog posts and alike
+
+# 5. Collections
+collections:
+  posts:
+    title: Latest # Needed for Siteleaf
+    output: true
+    description: "Items in the digital collection sorted by date added." # The post list page content
+
+# 6. Jekyll collections settings
+
+# 7. Site settings
+encoding: utf-8 # Make sure the encoding is right
+lang: en-US # Set the site language
+title: "Design Archives" # Site name or title, also used in jekyll-seo-tag
+description: "Design Archives is a curated collection of design from the Internet Archive." # Site description and default description, also used in jekyll-seo-tag
+url: "https://archives.design" # Site url, also used in jekyll-seo-tag
+baseurl: ""
+css_inline: true # Will insert all styles into a single <style> block in the <head> element and remove the style <link> reference
+
+# 8. Site favicons & manifest icons
+favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
+  16: '/assets/logos/logo@16px.png'
+  32: '/assets/logos/logo@32px.png'
+  96: '/assets/logos/logo@96px.png'
+  120: '/assets/logos/logo@120px.png'
+  144: '/assets/logos/logo@144px.png'
+  180: '/assets/logos/logo@180px.png'
+  512: '/assets/logos/logo@512px.png'
+  1024: '/assets/logos/logo@1024px.png'
+
+# 9. Site navigation
+navigation_header:
+- title: About
+  url: /about/
+- title: Latest
+  url: /latest/
+- title: Categories
+  url: /categories/
+- title: Search
+  url: /search/
+
+navigation_footer:
+- title: To Top
+  url: "#top"
+
+social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
+  Twitter: https://twitter.com/valerymarier
+  link: https://marier.design
+  RSS: /feed.xml
+
+sharing_links: # Appear at the bottom of single blog posts, add as desired. The value can be 'true' or the desired button colour
+  Twitter: "#0d94e7"
+  Email: true

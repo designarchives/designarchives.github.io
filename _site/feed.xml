@@ -1,28 +1,22 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US"><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en-US" /><updated>2020-02-05T13:41:13-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Design Archives</title><subtitle>Design Archives is a curated collection of design from the Internet Archive.</subtitle><author><name>Valery Marier</name></author><entry><title type="html">Emigre 24 – Neomania</title><link href="http://localhost:4000/editorial/2020/02/05/emigre-24/" rel="alternate" type="text/html" title="Emigre 24 – Neomania" /><published>2020-02-05T00:00:00-05:00</published><updated>2020-02-05T00:00:00-05:00</updated><id>http://localhost:4000/editorial/2020/02/05/emigre-24</id><content type="html" xml:base="http://localhost:4000/editorial/2020/02/05/emigre-24/">&lt;p&gt;40 pages, 11.25 x 16.75. Edition of 6,500. Printed at Cal Central, Sacramento, CA. Editor and designer: Rudy VanderLans. Emigre Fonts: Zuzana Licko.
-&lt;!-- more --&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;This piece is stream_only on the Internet Archives. To see the full magazine click the image.&lt;/em&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US"><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en-US" /><updated>2020-02-10T00:59:46-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Design Archives</title><subtitle>Design Archives is a curated collection of design from the Internet Archive.</subtitle><author><name>Valery Marier</name></author><entry><title type="html">Thinking with type; a critical guide for designers, writers, editors, &amp;amp; students 2nd ed.</title><link href="http://localhost:4000/design%20education/2020/02/10/thinking-with-type/" rel="alternate" type="text/html" title="Thinking with type; a critical guide for designers, writers, editors, &amp; students 2nd ed." /><published>2020-02-10T00:00:00-05:00</published><updated>2020-02-10T00:00:00-05:00</updated><id>http://localhost:4000/design%20education/2020/02/10/thinking-with-type</id><content type="html" xml:base="http://localhost:4000/design%20education/2020/02/10/thinking-with-type/">&lt;p&gt;This book provides clear and focused guidance for students, designers, writers, and editors on how to arrange written content. Throughout the book, visual examples show how to be inventive within the systems of typographic form.
+&lt;!-- more --&gt;&lt;br /&gt;&lt;br /&gt;
+With forty-eight pages of new content and dozens of additional illustrations, the second edition provides stunning examples, eye-opening demonstrations, and helpful exercises. Includes new sections on : lining and non-lining numerals ; small caps and enlarged capitals ; optical sizes ; captions ; punctuation and ornaments ; font formats and font licensing ; mixing typefaces ; hand lettering.&lt;span title=&quot;From back cover.&quot; class=&quot;footnote&quot;&gt;º&lt;/span&gt;
 &lt;br /&gt;
-&lt;a href=&quot;https://archive.org/details/LFAEmigre0024&quot;&gt;&lt;img src=&quot;https://archive.org/download/LFAEmigre0024/LFA_Emigre_0024_001.jpg &quot; style=&quot;width: 50% !important; margin-left: 25%; margin-right: 25%;&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;https://archive.org/details/thinkingwithtype0000lupt_h9e8&quot;&gt;&lt;img src=&quot;/assets/022020-images/20200210-design-with-type.jpg&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;
 &lt;br /&gt;&lt;/p&gt;
-&lt;h4 id=&quot;contents&quot;&gt;Contents:&lt;/h4&gt;
-&lt;ul&gt;
-  &lt;li&gt;Mail (including Frank Heine).&lt;/li&gt;
-  &lt;li&gt;Rudy VanderLans, Second Wind (introduction).&lt;/li&gt;
-  &lt;li&gt;Rudy VanderLans, 11 Questions I’ve Always Wanted to Ask David Carson.&lt;/li&gt;
-  &lt;li&gt;Rudy VanderLans, interview with Neil Feineman, Editor of Ray Gun.&lt;/li&gt;
-  &lt;li&gt;Anne Burdick, Neomania (16 pp. insert, text, photographs and design: Burdick).&lt;/li&gt;
-  &lt;li&gt;Rudy VanderLans, interview with Marvin Jarrett, Publisher/Editor of Ray Gun.&lt;/li&gt;
-&lt;/ul&gt;
-
 &lt;table&gt;
   &lt;tr&gt;
+    &lt;td style=&quot;width:30%&quot;&gt;Author&lt;/td&gt;
+    &lt;td&gt;Ellen Lupton&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
     &lt;td style=&quot;width:30%&quot;&gt;Publication Date&lt;/td&gt;
-    &lt;td&gt;1992&lt;/td&gt;
+    &lt;td&gt;2010&lt;/td&gt;
   &lt;/tr&gt;
   &lt;tr&gt;
     &lt;td style=&quot;width:30%&quot;&gt;Publisher&lt;/td&gt;
-    &lt;td&gt;Emigre Inc.&lt;/td&gt;
+    &lt;td&gt;Princeton Architectural Press&lt;/td&gt;
   &lt;/tr&gt;
   &lt;tr&gt;
     &lt;td style=&quot;width:30%&quot;&gt;Language&lt;/td&gt;
@@ -30,142 +24,41 @@
   &lt;/tr&gt;
   &lt;tr&gt;
     &lt;td style=&quot;width:30%&quot;&gt;Identifier-ark&lt;/td&gt;
-    &lt;td&gt;&lt;a href=&quot;https://archive.org/details/LFAEmigre0024&quot;&gt;ark:/13960/t68419317&lt;/a&gt;&lt;/td&gt;
+    &lt;td&gt;&lt;a href=&quot;https://archive.org/details/thinkingwithtype0000lupt_h9e8&quot;&gt;ark:/13960/t9b65153f&lt;/a&gt;&lt;/td&gt;
   &lt;/tr&gt;
   &lt;tr&gt;
     &lt;td style=&quot;width:30%&quot;&gt;Tags&lt;/td&gt;
-    &lt;td&gt;Editorial, typography, font, fonts, typefaces, magazine.&lt;/td&gt;
+    &lt;td&gt;Ellen Lupton, Typography, Type, Letters, America, Graphic Design, Design Education&lt;/td&gt;
   &lt;/tr&gt;
   &lt;tr&gt;
     &lt;td style=&quot;width:30%&quot;&gt;Rights&lt;/td&gt;
-    &lt;td&gt;Copyrighted. Rights are owned by Emigre Inc. Copyright holder has given Letterform Archive permission to provide access to the digitized work online. Transmission or reproduction of materials protected by copyright beyond that allowed by fair use requires written permission of the Copyright Holder. Responsibility for any use rests exclusively with the user.&lt;/td&gt;
+    &lt;td&gt;Still protected under copyright.&lt;/td&gt;
   &lt;/tr&gt;
 &lt;/table&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;*Note:* Since this is an archive meant for educational use, the website’s author believes that this falls under fair use. If you are the copyright holder and would like to get this page removed, feel free to &lt;a href=&quot;https://marier.design/about&quot;&gt;get in touch here&lt;/a&gt; and the page will be removed promptly.&lt;/em&gt;
-&lt;em&gt;Originally from the &lt;a href=&quot;https://archive.org/details/LFAEmigre0024/&quot;&gt;Internet Archive&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;</content><author><name>Valery Marier</name></author><summary type="html">40 pages, 11.25 x 16.75. Edition of 6,500. Printed at Cal Central, Sacramento, CA. Editor and designer: Rudy VanderLans. Emigre Fonts: Zuzana Licko.</summary></entry><entry><title type="html">Apple Logo Standards</title><link href="http://localhost:4000/standards%20manual/2020/02/05/apple-1987/" rel="alternate" type="text/html" title="Apple Logo Standards" /><published>2020-02-05T00:00:00-05:00</published><updated>2020-02-05T00:00:00-05:00</updated><id>http://localhost:4000/standards%20manual/2020/02/05/apple-1987</id><content type="html" xml:base="http://localhost:4000/standards%20manual/2020/02/05/apple-1987/">&lt;p&gt;This is a poster (scanned in overlapping sections) outlining the standards for displaying Apple Computer’s logo in the late 1980’s.
-The rainbow-style Apple logo was dropped when Steve Jobs returned a decade later.
-&lt;!-- more --&gt;&lt;/p&gt;
-&lt;iframe src=&quot;https://archive.org/embed/AppleLogoStandards1987#mode/1up/page/1/&quot; width=&quot;100%&quot; height=&quot;75%&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;true&quot; mozallowfullscreen=&quot;true&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;table&gt;
-  &lt;tr&gt;
-    &lt;td style=&quot;width:30%&quot;&gt;Publication Date&lt;/td&gt;
-    &lt;td&gt;1987&lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-    &lt;td style=&quot;width:30%&quot;&gt;Publisher&lt;/td&gt;
-    &lt;td&gt;Apple&lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-    &lt;td style=&quot;width:30%&quot;&gt;Language&lt;/td&gt;
-    &lt;td&gt;English&lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-    &lt;td style=&quot;width:30%&quot;&gt;Identifier-ark&lt;/td&gt;
-    &lt;td&gt;&lt;a href=&quot;https://archive.org/details/AppleLogoStandards1987&quot;&gt;ark:/13960/t9q31mq40&lt;/a&gt;&lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-    &lt;td style=&quot;width:30%&quot;&gt;Tags&lt;/td&gt;
-    &lt;td&gt;Logo, standards manual, apple, computers.&lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-    &lt;td style=&quot;width:30%&quot;&gt;Rights&lt;/td&gt;
-    &lt;td&gt;Seems to still be under the copyright of Apple Computers.&lt;/td&gt;
-  &lt;/tr&gt;
-&lt;/table&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Originally from the &lt;a href=&quot;https://archive.org/details/AppleLogoStandards1987/&quot;&gt;Internet Archive&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;</content><author><name>Valery Marier</name></author><summary type="html">This is a poster (scanned in overlapping sections) outlining the standards for displaying Apple Computer’s logo in the late 1980’s. The rainbow-style Apple logo was dropped when Steve Jobs returned a decade later.</summary></entry><entry><title type="html">Emigre 1 – A magazine for exiles</title><link href="http://localhost:4000/editorial/2020/02/05/emigre-01/" rel="alternate" type="text/html" title="Emigre 1 – A magazine for exiles" /><published>2020-02-05T00:00:00-05:00</published><updated>2020-02-05T00:00:00-05:00</updated><id>http://localhost:4000/editorial/2020/02/05/emigre-01</id><content type="html" xml:base="http://localhost:4000/editorial/2020/02/05/emigre-01/">&lt;p&gt;32 pages, 11.5 x 17. Edition of 500. Printed at West Coast Print Center, Berkeley, CA. Publishers: Rudy VanderLans (art director and designer), Marc Susan (editor), Menno Meyjes (editor), Diane Julia Olberg (assistant editor).
-&lt;!-- more --&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;This piece is stream_only on the Internet Archives. To see the full magazine click the image.&lt;/em&gt;
-&lt;br /&gt;
-&lt;a href=&quot;https://archive.org/details/LFAEmigre0001&quot;&gt;&lt;img src=&quot;https://archive.org/download/LFAEmigre0001/LFA_Emigre_0001_0001.jpg &quot; style=&quot;width: 50% !important; margin-left: 25%; margin-right: 25%;&quot; /&gt;&lt;/a&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;em&gt;Originally from the &lt;a href=&quot;https://archive.org/details/thinkingwithtype0000lupt_h9e8&quot;&gt;Internet Archive&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content><author><name>Valery Marier</name></author><summary type="html">This book provides clear and focused guidance for students, designers, writers, and editors on how to arrange written content. Throughout the book, visual examples show how to be inventive within the systems of typographic form.</summary></entry><entry><title type="html">Design with type</title><link href="http://localhost:4000/design%20education/2020/02/10/design-with-type/" rel="alternate" type="text/html" title="Design with type" /><published>2020-02-10T00:00:00-05:00</published><updated>2020-02-10T00:00:00-05:00</updated><id>http://localhost:4000/design%20education/2020/02/10/design-with-type</id><content type="html" xml:base="http://localhost:4000/design%20education/2020/02/10/design-with-type/">&lt;p&gt;Design with Type was first published in 1952 and appeared in this multi-award-winning revised edition in 1967, which was the first Canadian work to be named Book of the Year by the American Institute of Graphic Arts (AIGA). Its author, Carl Dair (1912-1967) was one of Canada’s best-known and most celebrated type compositors and designers.
+&lt;!-- more --&gt;&lt;br /&gt;&lt;br /&gt;
+Discussing type as a design material as well as a means of communication, Dair argued that if type is understood in terms of design, the user of type will be better able to work with it to achieve maximum clarity and aesthetic pleasure. He guides the reader through a study of typography that starts with the examination of an individual letter and proceeds with words, lines, and masses of text.&lt;a href=&quot;https://www.goodreads.com/book/show/1834794.Design_with_Type&quot; title=&quot;An excerpt from Good Reads&quot; class=&quot;footnote&quot;&gt;º&lt;/a&gt;
 &lt;br /&gt;&lt;/p&gt;
-&lt;h4 id=&quot;contents&quot;&gt;Contents:&lt;/h4&gt;
-&lt;ul&gt;
-  &lt;li&gt;Rudy VanderLans, Just like I pictured it (photographs).&lt;/li&gt;
-  &lt;li&gt;John Hersey, Immigrant X. (painting).&lt;/li&gt;
-  &lt;li&gt;Terry Trucco, Sumo, the Sport of Major Proportions (essay).&lt;/li&gt;
-  &lt;li&gt;Jacques Overhoff, Sundial, Torque (public art projects).&lt;/li&gt;
-  &lt;li&gt;William Cone, Down and Back (cartoon strip).&lt;/li&gt;
-  &lt;li&gt;Menno Meyjes, The Children’s Crusade (screenplay).&lt;/li&gt;
-  &lt;li&gt;Don Carpenter, One Pocket (short story with illustration by Bert van der Meij).&lt;/li&gt;
-  &lt;li&gt;Tom Klinkowstein, How we Communicate (text and illustrations).&lt;/li&gt;
-  &lt;li&gt;Marc Susan, Emigre Poems.&lt;/li&gt;
-  &lt;li&gt;Hans Sluga, Passing Thoughts (essay).&lt;/li&gt;
-  &lt;li&gt;Johanna Drucker, Being in Places (text and illustrations).&lt;/li&gt;
-  &lt;li&gt;Gavin Flint, Banzai! (back cover painting).&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;table&gt;
-  &lt;tr&gt;
-    &lt;td style=&quot;width:30%&quot;&gt;Publication Date&lt;/td&gt;
-    &lt;td&gt;1984&lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-    &lt;td style=&quot;width:30%&quot;&gt;Publisher&lt;/td&gt;
-    &lt;td&gt;Emigre Inc.&lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-    &lt;td style=&quot;width:30%&quot;&gt;Language&lt;/td&gt;
-    &lt;td&gt;English&lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-    &lt;td style=&quot;width:30%&quot;&gt;Identifier-ark&lt;/td&gt;
-    &lt;td&gt;&lt;a href=&quot;https://archive.org/details/LFAEmigre0001&quot;&gt;ark:/13960/t11p4hx03&lt;/a&gt;&lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-    &lt;td style=&quot;width:30%&quot;&gt;Tags&lt;/td&gt;
-    &lt;td&gt;Editorial, typography, font, fonts, typefaces, magazine.&lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-    &lt;td style=&quot;width:30%&quot;&gt;Rights&lt;/td&gt;
-    &lt;td&gt;Copyrighted. Rights are owned by Emigre Inc. Copyright holder has given Letterform Archive permission to provide access to the digitized work online. Transmission or reproduction of materials protected by copyright beyond that allowed by fair use requires written permission of the Copyright Holder. Responsibility for any use rests exclusively with the user.&lt;/td&gt;
-  &lt;/tr&gt;
-&lt;/table&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;*Note:* Since this is an archive meant for educational use, the website’s author believes that this falls under fair use. If you are the copyright holder and would like to get this page removed, feel free to &lt;a href=&quot;https://marier.design/about&quot;&gt;get in touch here&lt;/a&gt; and the page will be removed promptly.&lt;/em&gt;
-&lt;em&gt;Originally from the &lt;a href=&quot;https://archive.org/details/LFAEmigre0001/&quot;&gt;Internet Archive&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;</content><author><name>Valery Marier</name></author><summary type="html">32 pages, 11.5 x 17. Edition of 500. Printed at West Coast Print Center, Berkeley, CA. Publishers: Rudy VanderLans (art director and designer), Marc Susan (editor), Menno Meyjes (editor), Diane Julia Olberg (assistant editor).</summary></entry><entry><title type="html">Emigre 2 – The Magazine That Ignores Boundaries</title><link href="http://localhost:4000/editorial/2020/02/05/emigre-02/" rel="alternate" type="text/html" title="Emigre 2 – The Magazine That Ignores Boundaries" /><published>2020-02-05T00:00:00-05:00</published><updated>2020-02-05T00:00:00-05:00</updated><id>http://localhost:4000/editorial/2020/02/05/emigre-02</id><content type="html" xml:base="http://localhost:4000/editorial/2020/02/05/emigre-02/">&lt;p&gt;32 pages, 11.5 x 16.75. Edition of 500. Printed at West Coast Print Center, Berkeley, CA. Publishers: Marc Susan (senior editor), Rudy VanderLans (art director and designer), Zuzana Licko (assistant designer).
-&lt;!-- more --&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;This piece is stream_only on the Internet Archives. To see the full magazine click the image. *Note:* I have found the Internet Archive player for this file to be a little buggy.&lt;/em&gt;
-&lt;br /&gt;
-&lt;a href=&quot;https://archive.org/details/LFAEmigre0002&quot;&gt;&lt;img src=&quot;https://archive.org/download/LFAEmigre0002/LFA_Emigre_0002_001.jpg &quot; style=&quot;width: 50% !important; margin-left: 25%; margin-right: 25%;&quot; /&gt;&lt;/a&gt;
+&lt;iframe src=&quot;https://archive.org/embed/designwithtype01dair#page/0&quot; width=&quot;100% &quot; height=&quot;500px &quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;true&quot; mozallowfullscreen=&quot;true&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;br /&gt;
 &lt;br /&gt;&lt;/p&gt;
-&lt;h4 id=&quot;contents&quot;&gt;Contents:&lt;/h4&gt;
-&lt;ul&gt;
-  &lt;li&gt;Marc Susan, Hardknocks (text with poems).&lt;/li&gt;
-  &lt;li&gt;William Cone, Vladimir Nabokov (painting).&lt;/li&gt;
-  &lt;li&gt;Peter Plate, Rites of Limbo (short story).&lt;/li&gt;
-  &lt;li&gt;Lewis MacAdams, What Happened to Kerouac? (dialogue from documentary, type design: Licko).&lt;/li&gt;
-  &lt;li&gt;Tom Bonauro, Lord Byron (design).&lt;/li&gt;
-  &lt;li&gt;Hans Sluga, The Vaults (essay).&lt;/li&gt;
-  &lt;li&gt;Diane Best, Mondriaan (painting).&lt;/li&gt;
-  &lt;li&gt;Lev Nussberg, Macropolis 2010—2020 (essay).&lt;/li&gt;
-  &lt;li&gt;Bert van der Meij, Running Water (cartoon strip).&lt;/li&gt;
-  &lt;li&gt;John Hersey, Computer Mutant (computer drawings, introduction: Alice Polesky, type design: Licko).&lt;/li&gt;
-  &lt;li&gt;Carlos Llerena Aguirre, Self Portrait (illustration).&lt;/li&gt;
-  &lt;li&gt;Scott Williams, Robot Dog (cartoon strip, insert book glued to page 23, introduction: Marc Susan).&lt;/li&gt;
-  &lt;li&gt;Kristine McKenna, interview with Don van Vliet a.k.a. Captain Beefheart.&lt;/li&gt;
-  &lt;li&gt;Anne Telford, Room 5 (short story, illustration: Karen M. McDonald).&lt;/li&gt;
-  &lt;li&gt;Marc Susan, Rimbaud (drawing with text).&lt;/li&gt;
-  &lt;li&gt;Tom Clark, So Cal (poem).&lt;/li&gt;
-  &lt;li&gt;Rudy VanderLans, Oddshots (photographs).&lt;/li&gt;
-  &lt;li&gt;Leonid Lamm, Play, You Got Your Money (back cover illustration).&lt;/li&gt;
-&lt;/ul&gt;
-
 &lt;table&gt;
   &lt;tr&gt;
+    &lt;td style=&quot;width:30%&quot;&gt;Author&lt;/td&gt;
+    &lt;td&gt;Carl Dair&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
     &lt;td style=&quot;width:30%&quot;&gt;Publication Date&lt;/td&gt;
-    &lt;td&gt;1985&lt;/td&gt;
+    &lt;td&gt;1967&lt;/td&gt;
   &lt;/tr&gt;
   &lt;tr&gt;
     &lt;td style=&quot;width:30%&quot;&gt;Publisher&lt;/td&gt;
-    &lt;td&gt;Emigre Inc.&lt;/td&gt;
+    &lt;td&gt;University of Toronto Press&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td style=&quot;width:30%&quot;&gt;Collection&lt;/td&gt;
+    &lt;td&gt;Duke University Libraries&lt;/td&gt;
   &lt;/tr&gt;
   &lt;tr&gt;
     &lt;td style=&quot;width:30%&quot;&gt;Language&lt;/td&gt;
@@ -173,26 +66,23 @@ The rainbow-style Apple logo was dropped when Steve Jobs returned a decade later
   &lt;/tr&gt;
   &lt;tr&gt;
     &lt;td style=&quot;width:30%&quot;&gt;Identifier-ark&lt;/td&gt;
-    &lt;td&gt;&lt;a href=&quot;https://archive.org/details/LFAEmigre0002&quot;&gt;ark:/13960/t3714h255&lt;/a&gt;&lt;/td&gt;
+    &lt;td&gt;&lt;a href=&quot;https://archive.org/details/designwithtype01dair/&quot;&gt;ark:/13960/t5cc68x8x&lt;/a&gt;&lt;/td&gt;
   &lt;/tr&gt;
   &lt;tr&gt;
     &lt;td style=&quot;width:30%&quot;&gt;Tags&lt;/td&gt;
-    &lt;td&gt;Editorial, typography, font, fonts, typefaces, magazine.&lt;/td&gt;
+    &lt;td&gt;Carl Dair, Typography, Type, Letters, Canada, Canadian, Modernism&lt;/td&gt;
   &lt;/tr&gt;
   &lt;tr&gt;
     &lt;td style=&quot;width:30%&quot;&gt;Rights&lt;/td&gt;
-    &lt;td&gt;Copyrighted. Rights are owned by Emigre Inc. Copyright holder has given Letterform Archive permission to provide access to the digitized work online. Transmission or reproduction of materials protected by copyright beyond that allowed by fair use requires written permission of the Copyright Holder. Responsibility for any use rests exclusively with the user.&lt;/td&gt;
+    &lt;td&gt;Seems to be out of copyright in Canada&lt;/td&gt;
   &lt;/tr&gt;
 &lt;/table&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;*Note:* Since this is an archive meant for educational use, the website’s author believes that this falls under fair use. If you are the copyright holder and would like to get this page removed, feel free to &lt;a href=&quot;https://marier.design/about&quot;&gt;get in touch here&lt;/a&gt; and the page will be removed promptly.&lt;/em&gt;
-&lt;em&gt;Originally from the &lt;a href=&quot;https://archive.org/details/LFAEmigre0002/&quot;&gt;Internet Archive&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;</content><author><name>Valery Marier</name></author><summary type="html">32 pages, 11.5 x 16.75. Edition of 500. Printed at West Coast Print Center, Berkeley, CA. Publishers: Marc Susan (senior editor), Rudy VanderLans (art director and designer), Zuzana Licko (assistant designer).</summary></entry><entry><title type="html">Emigre 3 – The magazine that ignores boundaries</title><link href="http://localhost:4000/editorial/2020/02/05/emigre-03/" rel="alternate" type="text/html" title="Emigre 3 – The magazine that ignores boundaries" /><published>2020-02-05T00:00:00-05:00</published><updated>2020-02-05T00:00:00-05:00</updated><id>http://localhost:4000/editorial/2020/02/05/emigre-03</id><content type="html" xml:base="http://localhost:4000/editorial/2020/02/05/emigre-03/">&lt;p&gt;32 pages, 11.625 x 17, plus poster, 22.5 x 32.5. Edition of 3,000. Printed at West Coast Print Center, Berkeley, CA. Publishers: Rudy VanderLans (art director and designer), Marc Susan (senior editor). Associate publisher: Menno Meyjes. Digital type design and typesetting: Zuzana Licko.
+&lt;p&gt;&lt;br /&gt;
+&lt;em&gt;Originally from the &lt;a href=&quot;https://archive.org/details/carldairatq1/&quot;&gt;Internet Archive&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content><author><name>Valery Marier</name></author><summary type="html">Design with Type was first published in 1952 and appeared in this multi-award-winning revised edition in 1967, which was the first Canadian work to be named Book of the Year by the American Institute of Graphic Arts (AIGA). Its author, Carl Dair (1912-1967) was one of Canada’s best-known and most celebrated type compositors and designers.</summary></entry><entry><title type="html">Emigre 3 – The magazine that ignores boundaries</title><link href="http://localhost:4000/editorial/2020/02/05/emigre-03/" rel="alternate" type="text/html" title="Emigre 3 – The magazine that ignores boundaries" /><published>2020-02-05T00:00:00-05:00</published><updated>2020-02-05T00:00:00-05:00</updated><id>http://localhost:4000/editorial/2020/02/05/emigre-03</id><content type="html" xml:base="http://localhost:4000/editorial/2020/02/05/emigre-03/">&lt;p&gt;32 pages, 11.625 x 17, plus poster, 22.5 x 32.5. Edition of 3,000. Printed at West Coast Print Center, Berkeley, CA. Publishers: Rudy VanderLans (art director and designer), Marc Susan (senior editor). Associate publisher: Menno Meyjes. Digital type design and typesetting: Zuzana Licko.
 &lt;!-- more --&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;This piece is stream_only on the Internet Archives. To see the full magazine click the image.&lt;/em&gt;
-&lt;br /&gt;
-&lt;a href=&quot;https://archive.org/details/LFAEmigre0003&quot;&gt;&lt;img src=&quot;https://archive.org/download/LFAEmigre0003/LFA_Emigre_0003_0001.jpg &quot; style=&quot;width: 50% !important; margin-left: 25%; margin-right: 25%;&quot; /&gt;&lt;/a&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;a href=&quot;https://archive.org/details/LFAEmigre0003&quot;&gt;&lt;img src=&quot;https://archive.org/download/LFAEmigre0003/LFA_Emigre_0003_0001.jpg &quot; /&gt;&lt;/a&gt;
 &lt;br /&gt;&lt;/p&gt;
 &lt;h4 id=&quot;contents&quot;&gt;Contents:&lt;/h4&gt;
 &lt;ul&gt;
@@ -227,6 +117,10 @@ The rainbow-style Apple logo was dropped when Steve Jobs returned a decade later
     &lt;td&gt;Emigre Inc.&lt;/td&gt;
   &lt;/tr&gt;
   &lt;tr&gt;
+    &lt;td style=&quot;width:30%&quot;&gt;Collection&lt;/td&gt;
+    &lt;td&gt;&lt;a href=&quot;https://letterformarchive.org&quot;&gt;The Letterform Archive&lt;/a&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
     &lt;td style=&quot;width:30%&quot;&gt;Language&lt;/td&gt;
     &lt;td&gt;English&lt;/td&gt;
   &lt;/tr&gt;
@@ -245,13 +139,13 @@ The rainbow-style Apple logo was dropped when Steve Jobs returned a decade later
 &lt;/table&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;*Note:* Since this is an archive meant for educational use, the website’s author believes that this falls under fair use. If you are the copyright holder and would like to get this page removed, feel free to &lt;a href=&quot;https://marier.design/about&quot;&gt;get in touch here&lt;/a&gt; and the page will be removed promptly.&lt;/em&gt;
-&lt;em&gt;Originally from the &lt;a href=&quot;https://archive.org/details/LFAEmigre0003/&quot;&gt;Internet Archive&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;</content><author><name>Valery Marier</name></author><summary type="html">32 pages, 11.625 x 17, plus poster, 22.5 x 32.5. Edition of 3,000. Printed at West Coast Print Center, Berkeley, CA. Publishers: Rudy VanderLans (art director and designer), Marc Susan (senior editor). Associate publisher: Menno Meyjes. Digital type design and typesetting: Zuzana Licko.</summary></entry><entry><title type="html">Emigre 4 – The magazine that ignores boundaries</title><link href="http://localhost:4000/editorial/2020/02/05/emigre-04/" rel="alternate" type="text/html" title="Emigre 4 – The magazine that ignores boundaries" /><published>2020-02-05T00:00:00-05:00</published><updated>2020-02-05T00:00:00-05:00</updated><id>http://localhost:4000/editorial/2020/02/05/emigre-04</id><content type="html" xml:base="http://localhost:4000/editorial/2020/02/05/emigre-04/">&lt;p&gt;32 pages, 11.5 x 17, plus poster, 23 x 17. Printed at West Coast Print Center, Berkeley, CA. Publisher and art director: Rudy VanderLans; Associate publishers: Menno Meyjes and Marc Susan.
+&lt;p&gt;&lt;em&gt;Note: Since this is an archive meant for educational use, the website’s author believes that this falls under fair use. If you are the copyright holder and would like to get this page removed, feel free to &lt;a href=&quot;https://marier.design/about&quot;&gt;get in touch here&lt;/a&gt; and the page will be removed promptly.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Originally from the &lt;a href=&quot;https://archive.org/details/LFAEmigre0003/&quot;&gt;Internet Archive&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;</content><author><name>Valery Marier</name></author><summary type="html">32 pages, 11.625 x 17, plus poster, 22.5 x 32.5. Edition of 3,000. Printed at West Coast Print Center, Berkeley, CA. Publishers: Rudy VanderLans (art director and designer), Marc Susan (senior editor). Associate publisher: Menno Meyjes. Digital type design and typesetting: Zuzana Licko.</summary></entry><entry><title type="html">Emigre 4 – The magazine that ignores boundaries</title><link href="http://localhost:4000/editorial/2020/02/05/emigre-04/" rel="alternate" type="text/html" title="Emigre 4 – The magazine that ignores boundaries" /><published>2020-02-05T00:00:00-05:00</published><updated>2020-02-05T00:00:00-05:00</updated><id>http://localhost:4000/editorial/2020/02/05/emigre-04</id><content type="html" xml:base="http://localhost:4000/editorial/2020/02/05/emigre-04/">&lt;p&gt;32 pages, 11.5 x 17, plus poster, 23 x 17. Printed at West Coast Print Center, Berkeley, CA. Publisher and art director: Rudy VanderLans; Associate publishers: Menno Meyjes and Marc Susan.
 &lt;!-- more --&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;This piece is stream_only on the Internet Archives. To see the full magazine click the image.&lt;/em&gt;
-&lt;br /&gt;
-&lt;a href=&quot;https://archive.org/details/LFAEmigre0004&quot;&gt;&lt;img src=&quot;https://archive.org/download/LFAEmigre0004/LFA_Emigre_0004_0001.jpg &quot; style=&quot;width: 50% !important; margin-left: 25%; margin-right: 25%;&quot; /&gt;&lt;/a&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;a href=&quot;https://archive.org/details/LFAEmigre0004&quot;&gt;&lt;img src=&quot;https://archive.org/download/LFAEmigre0004/LFA_Emigre_0004_0001.jpg &quot; /&gt;&lt;/a&gt;
 &lt;br /&gt;&lt;/p&gt;
 &lt;h4 id=&quot;contents&quot;&gt;Contents:&lt;/h4&gt;
 &lt;ul&gt;
@@ -282,6 +176,10 @@ The rainbow-style Apple logo was dropped when Steve Jobs returned a decade later
     &lt;td&gt;Emigre Inc.&lt;/td&gt;
   &lt;/tr&gt;
   &lt;tr&gt;
+    &lt;td style=&quot;width:30%&quot;&gt;Collection&lt;/td&gt;
+    &lt;td&gt;&lt;a href=&quot;https://letterformarchive.org&quot;&gt;The Letterform Archive&lt;/a&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
     &lt;td style=&quot;width:30%&quot;&gt;Language&lt;/td&gt;
     &lt;td&gt;English&lt;/td&gt;
   &lt;/tr&gt;
@@ -300,23 +198,36 @@ The rainbow-style Apple logo was dropped when Steve Jobs returned a decade later
 &lt;/table&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;*Note:* Since this is an archive meant for educational use, the website’s author believes that this falls under fair use. If you are the copyright holder and would like to get this page removed, feel free to &lt;a href=&quot;https://marier.design/about&quot;&gt;get in touch here&lt;/a&gt; and the page will be removed promptly.&lt;/em&gt;
-&lt;em&gt;Originally from the &lt;a href=&quot;https://archive.org/details/LFAEmigre0004/&quot;&gt;Internet Archive&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;</content><author><name>Valery Marier</name></author><summary type="html">32 pages, 11.5 x 17, plus poster, 23 x 17. Printed at West Coast Print Center, Berkeley, CA. Publisher and art director: Rudy VanderLans; Associate publishers: Menno Meyjes and Marc Susan.</summary></entry><entry><title type="html">A Typographic Quest 6–Etcetera</title><link href="http://localhost:4000/design%20education/2020/02/04/typographic-quest-6/" rel="alternate" type="text/html" title="A Typographic Quest 6–Etcetera" /><published>2020-02-04T00:00:00-05:00</published><updated>2020-02-04T00:00:00-05:00</updated><id>http://localhost:4000/design%20education/2020/02/04/typographic-quest-6</id><content type="html" xml:base="http://localhost:4000/design%20education/2020/02/04/typographic-quest-6/">&lt;p&gt;Booklet number six of Carl Dair’s series A Typographic Quest, made for the West Virginia Pulp and Paper Company.
+&lt;p&gt;&lt;em&gt;Note: Since this is an archive meant for educational use, the website’s author believes that this falls under fair use. If you are the copyright holder and would like to get this page removed, feel free to &lt;a href=&quot;https://marier.design/about&quot;&gt;get in touch here&lt;/a&gt; and the page will be removed promptly.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Originally from the &lt;a href=&quot;https://archive.org/details/LFAEmigre0004/&quot;&gt;Internet Archive&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;</content><author><name>Valery Marier</name></author><summary type="html">32 pages, 11.5 x 17, plus poster, 23 x 17. Printed at West Coast Print Center, Berkeley, CA. Publisher and art director: Rudy VanderLans; Associate publishers: Menno Meyjes and Marc Susan.</summary></entry><entry><title type="html">Emigre 24 – Neomania</title><link href="http://localhost:4000/editorial/2020/02/05/emigre-24/" rel="alternate" type="text/html" title="Emigre 24 – Neomania" /><published>2020-02-05T00:00:00-05:00</published><updated>2020-02-05T00:00:00-05:00</updated><id>http://localhost:4000/editorial/2020/02/05/emigre-24</id><content type="html" xml:base="http://localhost:4000/editorial/2020/02/05/emigre-24/">&lt;p&gt;40 pages, 11.25 x 16.75. Edition of 6,500. Printed at Cal Central, Sacramento, CA. Editor and designer: Rudy VanderLans. Emigre Fonts: Zuzana Licko.
 &lt;!-- more --&gt;&lt;/p&gt;
-&lt;iframe src=&quot;https://archive.org/embed/carldairatq6#page/0&quot; width=&quot;100% &quot; height=&quot;75% &quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;true&quot; mozallowfullscreen=&quot;true&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;a href=&quot;https://archive.org/details/LFAEmigre0024&quot;&gt;&lt;img src=&quot;https://archive.org/download/LFAEmigre0024/LFA_Emigre_0024_001.jpg &quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;&lt;/p&gt;
+&lt;h4 id=&quot;contents&quot;&gt;Contents:&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;Mail (including Frank Heine).&lt;/li&gt;
+  &lt;li&gt;Rudy VanderLans, Second Wind (introduction).&lt;/li&gt;
+  &lt;li&gt;Rudy VanderLans, 11 Questions I’ve Always Wanted to Ask David Carson.&lt;/li&gt;
+  &lt;li&gt;Rudy VanderLans, interview with Neil Feineman, Editor of Ray Gun.&lt;/li&gt;
+  &lt;li&gt;Anne Burdick, Neomania (16 pp. insert, text, photographs and design: Burdick).&lt;/li&gt;
+  &lt;li&gt;Rudy VanderLans, interview with Marvin Jarrett, Publisher/Editor of Ray Gun.&lt;/li&gt;
+&lt;/ul&gt;
+
 &lt;table&gt;
   &lt;tr&gt;
-    &lt;td style=&quot;width:30%&quot;&gt;Author&lt;/td&gt;
-    &lt;td&gt;Carl Dair&lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
     &lt;td style=&quot;width:30%&quot;&gt;Publication Date&lt;/td&gt;
-    &lt;td&gt;1968&lt;/td&gt;
+    &lt;td&gt;1992&lt;/td&gt;
   &lt;/tr&gt;
   &lt;tr&gt;
     &lt;td style=&quot;width:30%&quot;&gt;Publisher&lt;/td&gt;
-    &lt;td&gt;West Virginia Pulp and Paper Co&lt;/td&gt;
+    &lt;td&gt;Emigre Inc.&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td style=&quot;width:30%&quot;&gt;Collection&lt;/td&gt;
+    &lt;td&gt;&lt;a href=&quot;https://letterformarchive.org&quot;&gt;The Letterform Archive&lt;/a&gt;&lt;/td&gt;
   &lt;/tr&gt;
   &lt;tr&gt;
     &lt;td style=&quot;width:30%&quot;&gt;Language&lt;/td&gt;
@@ -324,19 +235,175 @@ The rainbow-style Apple logo was dropped when Steve Jobs returned a decade later
   &lt;/tr&gt;
   &lt;tr&gt;
     &lt;td style=&quot;width:30%&quot;&gt;Identifier-ark&lt;/td&gt;
-    &lt;td&gt;&lt;a href=&quot;https://archive.org/details/carldairatq6&quot;&gt;ark:/13960/t04z3d75b&lt;/a&gt;&lt;/td&gt;
+    &lt;td&gt;&lt;a href=&quot;https://archive.org/details/LFAEmigre0024&quot;&gt;ark:/13960/t68419317&lt;/a&gt;&lt;/td&gt;
   &lt;/tr&gt;
   &lt;tr&gt;
     &lt;td style=&quot;width:30%&quot;&gt;Tags&lt;/td&gt;
-    &lt;td&gt;Carl Dair, Typography, Type, Letters, Canada, Canadian, Modernism&lt;/td&gt;
+    &lt;td&gt;Editorial, typography, font, fonts, typefaces, magazine.&lt;/td&gt;
   &lt;/tr&gt;
   &lt;tr&gt;
     &lt;td style=&quot;width:30%&quot;&gt;Rights&lt;/td&gt;
-    &lt;td&gt;N/A&lt;/td&gt;
+    &lt;td&gt;Copyrighted. Rights are owned by Emigre Inc. Copyright holder has given Letterform Archive permission to provide access to the digitized work online. Transmission or reproduction of materials protected by copyright beyond that allowed by fair use requires written permission of the Copyright Holder. Responsibility for any use rests exclusively with the user.&lt;/td&gt;
   &lt;/tr&gt;
 &lt;/table&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Note: Since this is an archive meant for educational use, the website’s author believes that this falls under fair use. If you are the copyright holder and would like to get this page removed, feel free to &lt;a href=&quot;https://marier.design/about&quot;&gt;get in touch here&lt;/a&gt; and the page will be removed promptly.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Originally from the &lt;a href=&quot;https://archive.org/details/LFAEmigre0024/&quot;&gt;Internet Archive&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;</content><author><name>Valery Marier</name></author><summary type="html">40 pages, 11.25 x 16.75. Edition of 6,500. Printed at Cal Central, Sacramento, CA. Editor and designer: Rudy VanderLans. Emigre Fonts: Zuzana Licko.</summary></entry><entry><title type="html">Emigre 1 – A magazine for exiles</title><link href="http://localhost:4000/editorial/2020/02/05/emigre-01/" rel="alternate" type="text/html" title="Emigre 1 – A magazine for exiles" /><published>2020-02-05T00:00:00-05:00</published><updated>2020-02-05T00:00:00-05:00</updated><id>http://localhost:4000/editorial/2020/02/05/emigre-01</id><content type="html" xml:base="http://localhost:4000/editorial/2020/02/05/emigre-01/">&lt;p&gt;32 pages, 11.5 x 17. Edition of 500. Printed at West Coast Print Center, Berkeley, CA. Publishers: Rudy VanderLans (art director and designer), Marc Susan (editor), Menno Meyjes (editor), Diane Julia Olberg (assistant editor).
+&lt;!-- more --&gt;&lt;/p&gt;
+
 &lt;p&gt;&lt;br /&gt;
-&lt;em&gt;Originally from the &lt;a href=&quot;https://archive.org/details/carldairatq6/&quot;&gt;Internet Archive&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content><author><name>Valery Marier</name></author><summary type="html">Booklet number six of Carl Dair’s series A Typographic Quest, made for the West Virginia Pulp and Paper Company.</summary></entry><entry><title type="html">Specimens of chromatic wood type, borders, etc.</title><link href="http://localhost:4000/type%20specimens/2020/02/04/chromatic-wood-type/" rel="alternate" type="text/html" title="Specimens of chromatic wood type, borders, etc." /><published>2020-02-04T00:00:00-05:00</published><updated>2020-02-04T00:00:00-05:00</updated><id>http://localhost:4000/type%20specimens/2020/02/04/chromatic-wood-type</id><content type="html" xml:base="http://localhost:4000/type%20specimens/2020/02/04/chromatic-wood-type/">&lt;p&gt;Wm. H. Page &amp;amp; Co. Specimens of chromatic wood type, borders, etc. manufactured by Wm. H. Page &amp;amp; Co. The Co., Greeneville, Conn. : 1874. [98] leaves : col. ill. ; 47 cm.
+&lt;a href=&quot;https://archive.org/details/LFAEmigre0001&quot;&gt;&lt;img src=&quot;https://archive.org/download/LFAEmigre0001/LFA_Emigre_0001_0001.jpg &quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;&lt;/p&gt;
+&lt;h4 id=&quot;contents&quot;&gt;Contents:&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;Rudy VanderLans, Just like I pictured it (photographs).&lt;/li&gt;
+  &lt;li&gt;John Hersey, Immigrant X. (painting).&lt;/li&gt;
+  &lt;li&gt;Terry Trucco, Sumo, the Sport of Major Proportions (essay).&lt;/li&gt;
+  &lt;li&gt;Jacques Overhoff, Sundial, Torque (public art projects).&lt;/li&gt;
+  &lt;li&gt;William Cone, Down and Back (cartoon strip).&lt;/li&gt;
+  &lt;li&gt;Menno Meyjes, The Children’s Crusade (screenplay).&lt;/li&gt;
+  &lt;li&gt;Don Carpenter, One Pocket (short story with illustration by Bert van der Meij).&lt;/li&gt;
+  &lt;li&gt;Tom Klinkowstein, How we Communicate (text and illustrations).&lt;/li&gt;
+  &lt;li&gt;Marc Susan, Emigre Poems.&lt;/li&gt;
+  &lt;li&gt;Hans Sluga, Passing Thoughts (essay).&lt;/li&gt;
+  &lt;li&gt;Johanna Drucker, Being in Places (text and illustrations).&lt;/li&gt;
+  &lt;li&gt;Gavin Flint, Banzai! (back cover painting).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;table&gt;
+  &lt;tr&gt;
+    &lt;td style=&quot;width:30%&quot;&gt;Publication Date&lt;/td&gt;
+    &lt;td&gt;1984&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td style=&quot;width:30%&quot;&gt;Publisher&lt;/td&gt;
+    &lt;td&gt;Emigre Inc.&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td style=&quot;width:30%&quot;&gt;Collection&lt;/td&gt;
+    &lt;td&gt;&lt;a href=&quot;https://letterformarchive.org&quot;&gt;The Letterform Archive&lt;/a&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td style=&quot;width:30%&quot;&gt;Language&lt;/td&gt;
+    &lt;td&gt;English&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td style=&quot;width:30%&quot;&gt;Identifier-ark&lt;/td&gt;
+    &lt;td&gt;&lt;a href=&quot;https://archive.org/details/LFAEmigre0001&quot;&gt;ark:/13960/t11p4hx03&lt;/a&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td style=&quot;width:30%&quot;&gt;Tags&lt;/td&gt;
+    &lt;td&gt;Editorial, typography, font, fonts, typefaces, magazine.&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td style=&quot;width:30%&quot;&gt;Rights&lt;/td&gt;
+    &lt;td&gt;Copyrighted. Rights are owned by Emigre Inc. Copyright holder has given Letterform Archive permission to provide access to the digitized work online. Transmission or reproduction of materials protected by copyright beyond that allowed by fair use requires written permission of the Copyright Holder. Responsibility for any use rests exclusively with the user.&lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Note: Since this is an archive meant for educational use, the website’s author believes that this falls under fair use. If you are the copyright holder and would like to get this page removed, feel free to &lt;a href=&quot;https://marier.design/about&quot;&gt;get in touch here&lt;/a&gt; and the page will be removed promptly.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Originally from the &lt;a href=&quot;https://archive.org/details/LFAEmigre0001/&quot;&gt;Internet Archive&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;</content><author><name>Valery Marier</name></author><summary type="html">32 pages, 11.5 x 17. Edition of 500. Printed at West Coast Print Center, Berkeley, CA. Publishers: Rudy VanderLans (art director and designer), Marc Susan (editor), Menno Meyjes (editor), Diane Julia Olberg (assistant editor).</summary></entry><entry><title type="html">Emigre 2 – The Magazine That Ignores Boundaries</title><link href="http://localhost:4000/editorial/2020/02/05/emigre-02/" rel="alternate" type="text/html" title="Emigre 2 – The Magazine That Ignores Boundaries" /><published>2020-02-05T00:00:00-05:00</published><updated>2020-02-05T00:00:00-05:00</updated><id>http://localhost:4000/editorial/2020/02/05/emigre-02</id><content type="html" xml:base="http://localhost:4000/editorial/2020/02/05/emigre-02/">&lt;p&gt;32 pages, 11.5 x 16.75. Edition of 500. Printed at West Coast Print Center, Berkeley, CA. Publishers: Marc Susan (senior editor), Rudy VanderLans (art director and designer), Zuzana Licko (assistant designer).
+&lt;!-- more --&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Note: I have found the Internet Archive player for this file to be a little buggy.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;a href=&quot;https://archive.org/details/LFAEmigre0002&quot;&gt;&lt;img src=&quot;https://archive.org/download/LFAEmigre0002/LFA_Emigre_0002_001.jpg&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;&lt;/p&gt;
+&lt;h4 id=&quot;contents&quot;&gt;Contents:&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;Marc Susan, Hardknocks (text with poems).&lt;/li&gt;
+  &lt;li&gt;William Cone, Vladimir Nabokov (painting).&lt;/li&gt;
+  &lt;li&gt;Peter Plate, Rites of Limbo (short story).&lt;/li&gt;
+  &lt;li&gt;Lewis MacAdams, What Happened to Kerouac? (dialogue from documentary, type design: Licko).&lt;/li&gt;
+  &lt;li&gt;Tom Bonauro, Lord Byron (design).&lt;/li&gt;
+  &lt;li&gt;Hans Sluga, The Vaults (essay).&lt;/li&gt;
+  &lt;li&gt;Diane Best, Mondriaan (painting).&lt;/li&gt;
+  &lt;li&gt;Lev Nussberg, Macropolis 2010—2020 (essay).&lt;/li&gt;
+  &lt;li&gt;Bert van der Meij, Running Water (cartoon strip).&lt;/li&gt;
+  &lt;li&gt;John Hersey, Computer Mutant (computer drawings, introduction: Alice Polesky, type design: Licko).&lt;/li&gt;
+  &lt;li&gt;Carlos Llerena Aguirre, Self Portrait (illustration).&lt;/li&gt;
+  &lt;li&gt;Scott Williams, Robot Dog (cartoon strip, insert book glued to page 23, introduction: Marc Susan).&lt;/li&gt;
+  &lt;li&gt;Kristine McKenna, interview with Don van Vliet a.k.a. Captain Beefheart.&lt;/li&gt;
+  &lt;li&gt;Anne Telford, Room 5 (short story, illustration: Karen M. McDonald).&lt;/li&gt;
+  &lt;li&gt;Marc Susan, Rimbaud (drawing with text).&lt;/li&gt;
+  &lt;li&gt;Tom Clark, So Cal (poem).&lt;/li&gt;
+  &lt;li&gt;Rudy VanderLans, Oddshots (photographs).&lt;/li&gt;
+  &lt;li&gt;Leonid Lamm, Play, You Got Your Money (back cover illustration).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;table&gt;
+  &lt;tr&gt;
+    &lt;td style=&quot;width:30%&quot;&gt;Publication Date&lt;/td&gt;
+    &lt;td&gt;1985&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td style=&quot;width:30%&quot;&gt;Publisher&lt;/td&gt;
+    &lt;td&gt;Emigre Inc.&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td style=&quot;width:30%&quot;&gt;Collection&lt;/td&gt;
+    &lt;td&gt;&lt;a href=&quot;https://letterformarchive.org&quot;&gt;The Letterform Archive&lt;/a&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td style=&quot;width:30%&quot;&gt;Language&lt;/td&gt;
+    &lt;td&gt;English&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td style=&quot;width:30%&quot;&gt;Identifier-ark&lt;/td&gt;
+    &lt;td&gt;&lt;a href=&quot;https://archive.org/details/LFAEmigre0002&quot;&gt;ark:/13960/t3714h255&lt;/a&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td style=&quot;width:30%&quot;&gt;Tags&lt;/td&gt;
+    &lt;td&gt;Editorial, typography, font, fonts, typefaces, magazine.&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td style=&quot;width:30%&quot;&gt;Rights&lt;/td&gt;
+    &lt;td&gt;Copyrighted. Rights are owned by Emigre Inc. Copyright holder has given Letterform Archive permission to provide access to the digitized work online. Transmission or reproduction of materials protected by copyright beyond that allowed by fair use requires written permission of the Copyright Holder. Responsibility for any use rests exclusively with the user.&lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;*Note:* Since this is an archive meant for educational use, the website’s author believes that this falls under fair use. If you are the copyright holder and would like to get this page removed, feel free to &lt;a href=&quot;https://marier.design/about&quot;&gt;get in touch here&lt;/a&gt; and the page will be removed promptly.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Originally from the &lt;a href=&quot;https://archive.org/details/LFAEmigre0002/&quot;&gt;Internet Archive&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;</content><author><name>Valery Marier</name></author><summary type="html">32 pages, 11.5 x 16.75. Edition of 500. Printed at West Coast Print Center, Berkeley, CA. Publishers: Marc Susan (senior editor), Rudy VanderLans (art director and designer), Zuzana Licko (assistant designer).</summary></entry><entry><title type="html">Apple Logo Standards</title><link href="http://localhost:4000/standards%20manual/2020/02/05/apple-1987/" rel="alternate" type="text/html" title="Apple Logo Standards" /><published>2020-02-05T00:00:00-05:00</published><updated>2020-02-05T00:00:00-05:00</updated><id>http://localhost:4000/standards%20manual/2020/02/05/apple-1987</id><content type="html" xml:base="http://localhost:4000/standards%20manual/2020/02/05/apple-1987/">&lt;p&gt;This is a poster (scanned in overlapping sections) outlining the standards for displaying Apple Computer’s logo in the late 1980’s.
+The rainbow-style Apple logo was dropped when Steve Jobs returned a decade later.
+&lt;!-- more --&gt;&lt;/p&gt;
+&lt;iframe src=&quot;https://archive.org/embed/AppleLogoStandards1987#mode/1up/page/1/&quot; width=&quot;100%&quot; height=&quot;75%&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;true&quot; mozallowfullscreen=&quot;true&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;table&gt;
+  &lt;tr&gt;
+    &lt;td style=&quot;width:30%&quot;&gt;Publication Date&lt;/td&gt;
+    &lt;td&gt;1987&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td style=&quot;width:30%&quot;&gt;Publisher&lt;/td&gt;
+    &lt;td&gt;Apple&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td style=&quot;width:30%&quot;&gt;Language&lt;/td&gt;
+    &lt;td&gt;English&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td style=&quot;width:30%&quot;&gt;Identifier-ark&lt;/td&gt;
+    &lt;td&gt;&lt;a href=&quot;https://archive.org/details/AppleLogoStandards1987&quot;&gt;ark:/13960/t9q31mq40&lt;/a&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td style=&quot;width:30%&quot;&gt;Tags&lt;/td&gt;
+    &lt;td&gt;Logo, standards manual, apple, computers.&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td style=&quot;width:30%&quot;&gt;Rights&lt;/td&gt;
+    &lt;td&gt;Seems to still be under the copyright of Apple Computers.&lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Originally from the &lt;a href=&quot;https://archive.org/details/AppleLogoStandards1987/&quot;&gt;Internet Archive&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;</content><author><name>Valery Marier</name></author><summary type="html">This is a poster (scanned in overlapping sections) outlining the standards for displaying Apple Computer’s logo in the late 1980’s. The rainbow-style Apple logo was dropped when Steve Jobs returned a decade later.</summary></entry><entry><title type="html">Specimens of chromatic wood type, borders, etc.</title><link href="http://localhost:4000/type%20specimens/2020/02/04/chromatic-wood-type/" rel="alternate" type="text/html" title="Specimens of chromatic wood type, borders, etc." /><published>2020-02-04T00:00:00-05:00</published><updated>2020-02-04T00:00:00-05:00</updated><id>http://localhost:4000/type%20specimens/2020/02/04/chromatic-wood-type</id><content type="html" xml:base="http://localhost:4000/type%20specimens/2020/02/04/chromatic-wood-type/">&lt;p&gt;Wm. H. Page &amp;amp; Co. Specimens of chromatic wood type, borders, etc. manufactured by Wm. H. Page &amp;amp; Co. The Co., Greeneville, Conn. : 1874. [98] leaves : col. ill. ; 47 cm.
 &lt;!-- more --&gt;&lt;/p&gt;
 &lt;iframe src=&quot;https://archive.org/embed/ldpd_10147342_000#page/0&quot; width=&quot;100% &quot; height=&quot;75% &quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;true&quot; mozallowfullscreen=&quot;true&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
@@ -402,39 +469,4 @@ The rainbow-style Apple logo was dropped when Steve Jobs returned a decade later
   &lt;/tr&gt;
 &lt;/table&gt;
 &lt;p&gt;&lt;br /&gt;
-&lt;em&gt;Originally from the &lt;a href=&quot;https://archive.org/details/carldairatq1/&quot;&gt;Internet Archive&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content><author><name>Valery Marier</name></author><summary type="html">Booklet number one of Carl Dair’s series A Typographic Quest, made for the West Virginia Pulp and Paper Company.</summary></entry><entry><title type="html">A Typographic Quest 2–Display</title><link href="http://localhost:4000/design%20education/2020/02/04/typographic-quest-2/" rel="alternate" type="text/html" title="A Typographic Quest 2–Display" /><published>2020-02-04T00:00:00-05:00</published><updated>2020-02-04T00:00:00-05:00</updated><id>http://localhost:4000/design%20education/2020/02/04/typographic-quest-2</id><content type="html" xml:base="http://localhost:4000/design%20education/2020/02/04/typographic-quest-2/">&lt;p&gt;Booklet number two of Carl Dair’s series A Typographic Quest, made for the West Virginia Pulp and Paper Company.
-&lt;!-- more --&gt;&lt;/p&gt;
-&lt;iframe src=&quot;https://archive.org/embed/carldairatq2#page/0&quot; width=&quot;100% &quot; height=&quot;75% &quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;true&quot; mozallowfullscreen=&quot;true&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;table&gt;
-  &lt;tr&gt;
-    &lt;td style=&quot;width:30%&quot;&gt;Author&lt;/td&gt;
-    &lt;td&gt;Carl Dair&lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-    &lt;td style=&quot;width:30%&quot;&gt;Publication Date&lt;/td&gt;
-    &lt;td&gt;1965&lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-    &lt;td style=&quot;width:30%&quot;&gt;Publisher&lt;/td&gt;
-    &lt;td&gt;West Virginia Pulp and Paper Co&lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-    &lt;td style=&quot;width:30%&quot;&gt;Language&lt;/td&gt;
-    &lt;td&gt;English&lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-    &lt;td style=&quot;width:30%&quot;&gt;Identifier-ark&lt;/td&gt;
-    &lt;td&gt;&lt;a href=&quot;https://archive.org/details/carldairatq2&quot;&gt;ark:/13960/t5n95c13h&lt;/a&gt;&lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-    &lt;td style=&quot;width:30%&quot;&gt;Tags&lt;/td&gt;
-    &lt;td&gt;Carl Dair, Typography, Type, Letters, Canada, Canadian, Modernism&lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-    &lt;td style=&quot;width:30%&quot;&gt;Rights&lt;/td&gt;
-    &lt;td&gt;N/A&lt;/td&gt;
-  &lt;/tr&gt;
-&lt;/table&gt;
-&lt;p&gt;&lt;br /&gt;
-&lt;em&gt;Originally from the &lt;a href=&quot;https://archive.org/details/carldairatq2/&quot;&gt;Internet Archive&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content><author><name>Valery Marier</name></author><summary type="html">Booklet number two of Carl Dair’s series A Typographic Quest, made for the West Virginia Pulp and Paper Company.</summary></entry></feed>
+&lt;em&gt;Originally from the &lt;a href=&quot;https://archive.org/details/carldairatq1/&quot;&gt;Internet Archive&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content><author><name>Valery Marier</name></author><summary type="html">Booklet number one of Carl Dair’s series A Typographic Quest, made for the West Virginia Pulp and Paper Company.</summary></entry></feed>

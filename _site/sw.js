@@ -1,8 +1,8 @@
-const version = '20200205134113';
+const version = '20200210005946';
 const cacheName = `static::${version}`;
 
 const buildContentBlob = () => {
-  return ["/editorial/2020/02/05/emigre-24/","/editorial/2020/02/05/emigre-04/","/editorial/2020/02/05/emigre-03/","/editorial/2020/02/05/emigre-02/","/editorial/2020/02/05/emigre-01/","/standards%20manual/2020/02/05/apple-1987/","/design%20education/2020/02/04/typographic-quest-6/","/design%20education/2020/02/04/typographic-quest-5/","/design%20education/2020/02/04/typographic-quest-4/","/design%20education/2020/02/04/typographic-quest-3/","/about/","/categories/","/latest/","/","/manifest.json","/assets/search.json","/search/","/assets/styles.css","/redirects.json","/sitemap.xml","/robots.txt","/latest/page2/","/latest/page3/","/latest/page4/","/feed.xml","", "/assets/default-offline-image.png", "/assets/scripts/fetch.js"
+  return ["/design%20education/2020/02/10/thinking-with-type/","/design%20education/2020/02/10/design-with-type/","/editorial/2020/02/05/emigre-24/","/editorial/2020/02/05/emigre-04/","/editorial/2020/02/05/emigre-03/","/editorial/2020/02/05/emigre-02/","/editorial/2020/02/05/emigre-01/","/standards%20manual/2020/02/05/apple-1987/","/design%20education/2020/02/04/typographic-quest-6/","/design%20education/2020/02/04/typographic-quest-5/","/about/","/categories/","/latest/","/","/manifest.json","/assets/search.json","/search/","/assets/styles.css","/redirects.json","/sitemap.xml","/robots.txt","/latest/page2/","/latest/page3/","/latest/page4/","/feed.xml","", "/assets/default-offline-image.png", "/assets/scripts/fetch.js"
   ]
 }
 

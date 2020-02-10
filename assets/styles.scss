@@ -9,9 +9,30 @@ html {
   font-family: 'IBM Plex Mono', monospace
 }
 article li { margin-left: 8% !important;}
-a img {transition: opacity ease-in-out 0.5s; margin-top: 8%;}
+a img {
+  transition: all ease-out 0.25s;
+  margin-top: 8%;
+  margin-left: 25%;
+  margin-right: 25%;
+  width: 55%;
+}
 a img:hover {
   opacity: 55%;
+  border: 10px solid #dc2a2a;
+  cursor: pointer !important;
+}
+.footnote {
+  color: #dc2a2a;
+  font-weight: 500;
+}
+.stream_only, .stream_only:hover {
+  color: #3455db !important;
+}
+.borrow_only, .borrow_only:hover {
+  color: #b500b5 !important;
+}
+.always_available, .always_available:hover {
+  color: #1d781d !important;
 }
 a {
   text-decoration: none;

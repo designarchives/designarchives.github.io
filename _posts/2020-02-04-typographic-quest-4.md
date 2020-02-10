@@ -2,6 +2,7 @@
 title: A Typographic Quest 4–Space
 categories:
 - Design Education
+type: always_available
 ---
 Booklet number four of Carl Dair's series A Typographic Quest, made for the West Virginia Pulp and Paper Company.
 <!-- more -->

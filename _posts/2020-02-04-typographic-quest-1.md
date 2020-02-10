@@ -2,6 +2,7 @@
 title: A Typographic Quest 1
 categories:
 - Design Education
+type: always_available
 ---
 Booklet number one of Carl Dair's series A Typographic Quest, made for the West Virginia Pulp and Paper Company.
 <!-- more -->

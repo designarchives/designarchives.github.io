@@ -2,6 +2,7 @@
 title: A Typographic Quest 5–Contrast
 categories:
 - Design Education
+type: always_available
 ---
 Booklet number five of Carl Dair's series A Typographic Quest, made for the West Virginia Pulp and Paper Company.
 <!-- more -->

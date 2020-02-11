@@ -1,8 +1,8 @@
-const version = '20200210005946';
+const version = '20200211151617';
 const cacheName = `static::${version}`;
 
 const buildContentBlob = () => {
-  return ["/design%20education/2020/02/10/thinking-with-type/","/design%20education/2020/02/10/design-with-type/","/editorial/2020/02/05/emigre-24/","/editorial/2020/02/05/emigre-04/","/editorial/2020/02/05/emigre-03/","/editorial/2020/02/05/emigre-02/","/editorial/2020/02/05/emigre-01/","/standards%20manual/2020/02/05/apple-1987/","/design%20education/2020/02/04/typographic-quest-6/","/design%20education/2020/02/04/typographic-quest-5/","/about/","/categories/","/latest/","/","/manifest.json","/assets/search.json","/search/","/assets/styles.css","/redirects.json","/sitemap.xml","/robots.txt","/latest/page2/","/latest/page3/","/latest/page4/","/feed.xml","", "/assets/default-offline-image.png", "/assets/scripts/fetch.js"
+  return ["/information%20design/2020/02/11/nycta-subway-map/","/standards%20manual/2020/02/11/nasa-standards-manual/","/editorial/2020/02/11/emigre-23/","/editorial/2020/02/11/emigre-22/","/editorial/2020/02/11/emigre-21/","/editorial/2020/02/11/emigre-20/","/editorial/2020/02/11/emigre-19/","/editorial/2020/02/11/emigre-18/","/editorial/2020/02/11/emigre-17/","/editorial/2020/02/11/emigre-16/","/about/","/categories/","/latest/","/","/manifest.json","/assets/search.json","/search/","/assets/styles.css","/redirects.json","/sitemap.xml","/robots.txt","/latest/page2/","/latest/page3/","/latest/page4/","/latest/page5/","/latest/page6/","/latest/page7/","/latest/page8/","/latest/page9/","/latest/page10/","/feed.xml","", "/assets/default-offline-image.png", "/assets/scripts/fetch.js"
   ]
 }
 

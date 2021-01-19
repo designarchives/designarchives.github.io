@@ -4,6 +4,9 @@ description: Specimens of wood type from Tubbs & Co.
 categories:
 - Type Specimens
 type: always_available
+featured-image: tubbswoodtype.jpg
+featured-image-alt: Mike the Blogger speaking at Times Square, New York City, New York
+
 ---
 Specimens of wood type from Tubbs & Co., in South Windham, Connecticut.
 <!-- more -->

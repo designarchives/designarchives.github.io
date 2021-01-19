@@ -11,6 +11,7 @@ gem "jekyll-feed", "~> 0.9"
 gem "jemoji", "~> 0.9"
 gem "jekyll-remote-theme", "~> 0.3"
 gem 'jekyll-include-cache'
+gem 'jekyll-admin', group: :jekyll_plugins
 group :jekyll_plugins do
   gem 'jekyll-commonmark'
 end

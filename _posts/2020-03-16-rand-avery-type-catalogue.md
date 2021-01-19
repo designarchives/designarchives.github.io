@@ -1,10 +1,12 @@
 ---
 title: Rand & Avery's Type Specimens
-description:  Published by Rand & Avery Co., 1865.
+description: Published by Rand & Avery Co., 1865.
 categories:
 - Type Specimens
 type: always_available
+featured-image: "/202101/19-randavery.jpg"
 ---
+
 Specimens of printing types and ornaments from Rand & Avery Co., in Cornhill, Boston.
 <!-- more -->
 <iframe src="https://archive.org/embed/rspecimens00rand#page/0" width="100% " height="75% " frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>

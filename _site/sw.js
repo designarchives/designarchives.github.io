@@ -1,8 +1,8 @@
-const version = '20200316194053';
+const version = '20210119165137';
 const cacheName = `static::${version}`;
 
 const buildContentBlob = () => {
-  return ["/type%20specimens/2020/03/16/tubbs-wood-type/","/type%20specimens/2020/03/16/rand-avery-type-catalogue/","/type%20specimens/2020/03/16/mackellar-smith-type-catalogue/","/type%20specimens/2020/03/16/hamiltons-holly-wood-type/","/type%20specimens/2020/03/16/george-bruce-specimens-1848/","/type%20specimens/2020/03/16/baltimore-type-catalogue/","/type%20specimens/2020/03/16/american-line-type-1923/","/type%20specimens/2020/03/16/american-line-type-1906/","/information%20design/2020/02/11/nycta-subway-map/","/standards%20manual/2020/02/11/nasa-standards-manual/","/about/","/categories/","/latest/","/","/manifest.json","/assets/search.json","/search/","/assets/styles.css","/redirects.json","/sitemap.xml","/robots.txt","/latest/page2/","/latest/page3/","/latest/page4/","/latest/page5/","/feed.xml","", "/assets/default-offline-image.png", "/assets/scripts/fetch.js"
+  return ["/type%20specimens/2020/03/16/tubbs-wood-type/","/type%20specimens/2020/03/16/rand-avery-type-catalogue/","/type%20specimens/2020/03/16/mackellar-smith-type-catalogue/","/type%20specimens/2020/03/16/hamiltons-holly-wood-type/","/type%20specimens/2020/03/16/george-bruce-specimens-1848/","/type%20specimens/2020/03/16/baltimore-type-catalogue/","/type%20specimens/2020/03/16/american-line-type-1923/","/type%20specimens/2020/03/16/american-line-type-1906/","/information%20design/2020/02/11/nycta-subway-map/","/standards%20manual/2020/02/11/nasa-standards-manual/","/about/","/categories/","/latest/","/","/manifest.json","/assets/search.json","/search/","/assets/styles.css","/redirects.json","/sitemap.xml","/robots.txt","/latest/page2/","/feed.xml","", "/assets/default-offline-image.png", "/assets/scripts/fetch.js"
   ]
 }
 

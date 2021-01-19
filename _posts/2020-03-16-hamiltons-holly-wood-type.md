@@ -1,10 +1,12 @@
 ---
-title: Hamilton's Holly Wood Type
-description:  Published by Hamilton Manufacturing Co., 1880.
+title: Hamilton's Wood Type
+description: Published by Hamilton Manufacturing Co., 1880.
 categories:
 - Type Specimens
 type: always_available
+featured-image: 202101/19-hamiltonwood.jpg
 ---
+
 Specimens of wood type from Hamilton Manufacturing Co., in Two Rivers, Wisconsin.
 <!-- more -->
 <iframe src="https://archive.org/embed/ldpd_12465515_000#page/0" width="100% " height="75% " frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>

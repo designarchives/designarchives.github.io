@@ -1,10 +1,12 @@
 ---
 title: Compact Book of Specimens
-description:  Published by Mackellar Smiths & Jordan Co., 1892.
+description: Published by Mackellar Smiths & Jordan Co., 1892.
 categories:
 - Type Specimens
 type: always_available
+featured-image: 202101/19-mackellar.jpg
 ---
+
 Specimens of printing types and ornaments from Mackellar Smiths & Jordan Co., in Philadelphia.
 <!-- more -->
 <iframe src="https://archive.org/embed/specimensofprint00mackrich#page/0" width="100% " height="75% " frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
